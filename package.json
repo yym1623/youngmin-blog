@@ -79,5 +79,11 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
     "lint": "eslint --ext .tsx --ext .ts ."
+  },
+  "resolutions": {
+    "lmdb": "2.5.3"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
