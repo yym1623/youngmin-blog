@@ -81,9 +81,9 @@
     "lint": "eslint --ext .tsx --ext .ts ."
   },
   "resolutions": {
-    "lmdb": "2.5.3"
+    "lmdb": "2.8.5"
   },
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   }
 }
